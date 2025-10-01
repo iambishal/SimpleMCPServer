@@ -231,3 +231,8 @@
 /Users/bishalshrestha/PracticeProject/Test/SampleMcpServer/obj/Debug/net9.0/osx-arm64/SampleMcpServer.pdb
 /Users/bishalshrestha/PracticeProject/Test/SampleMcpServer/obj/Debug/net9.0/osx-arm64/SampleMcpServer.genruntimeconfig.cache
 /Users/bishalshrestha/PracticeProject/Test/SampleMcpServer/obj/Debug/net9.0/osx-arm64/ref/SampleMcpServer.dll
+/Users/bishalshrestha/PracticeProject/Test/SampleMcpServer/bin/Debug/net9.0/osx-arm64/Microsoft.Data.Sqlite.dll
+/Users/bishalshrestha/PracticeProject/Test/SampleMcpServer/bin/Debug/net9.0/osx-arm64/SQLitePCLRaw.batteries_v2.dll
+/Users/bishalshrestha/PracticeProject/Test/SampleMcpServer/bin/Debug/net9.0/osx-arm64/SQLitePCLRaw.core.dll
+/Users/bishalshrestha/PracticeProject/Test/SampleMcpServer/bin/Debug/net9.0/osx-arm64/SQLitePCLRaw.provider.e_sqlite3.dll
+/Users/bishalshrestha/PracticeProject/Test/SampleMcpServer/bin/Debug/net9.0/osx-arm64/libe_sqlite3.dylib
